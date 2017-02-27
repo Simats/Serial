@@ -17,7 +17,7 @@ void setup()
 {
   Serial.begin(9600);
   
-  Serial.println("Lets calculate a hypoteneuse");
+  Serial.println("Calcula la hipotenusa");
 
   h = sqrt(a*a + b*b);
       
